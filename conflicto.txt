@@ -1,0 +1,16 @@
+public static void multiplos(int numerosMax){
+	
+	for (int i=0; i<=NumerosMax;i++){
+		if(i%7==0){
+			system.out.println("multiplo de 7:   "+i)
+			system.out.println("conflicto")
+		}
+		if(i%49==0){
+			system.out.println("múltiplo de 49: "+i)
+		}
+	else if(i%100==0) {
+		system.out.println("múltiplo de 100:   " +i)
+	}
+  }
+}
+	
